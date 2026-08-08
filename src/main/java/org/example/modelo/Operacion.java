@@ -62,5 +62,5 @@ public class Operacion {
 
     public void setResultado(double resultado) {
         this.resultado = resultado;
-    }   
+    }
 }
