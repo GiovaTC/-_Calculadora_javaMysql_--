@@ -12,7 +12,7 @@ public class OperacionDAO {
     public boolean guardar(Operacion operacion) {
 
         String sql = """
-                INSERT INTO operacopmes
+                INSERT INTO operaciones
                 (numero1, numero2, operacion, resultado)
                 VALUES (?,?,?,?)
                 """;

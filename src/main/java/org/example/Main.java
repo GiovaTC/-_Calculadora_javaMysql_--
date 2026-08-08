@@ -13,5 +13,5 @@ public class Main {
                     new Calculadora();
             calculadora.setVisible(true);
         });
-    }   
+    }
 }
