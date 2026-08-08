@@ -28,7 +28,7 @@ public class OperacionDAO {
             ps.executeUpdate();
 
             return true;
-        } catch (SQLException e) {  
+        } catch (SQLException e) {
             System.out.println("Error guardando operación: "
                     + e.getMessage());
 
