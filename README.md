@@ -4,6 +4,8 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa98e72c-6087-4bee-8c40-d1fa124f3cb7" />  
 
+<img width="2551" height="1037" alt="image" src="https://github.com/user-attachments/assets/91a953b7-d9af-40fc-b233-f4fa852cc467" />    
+
 ```
 Proyecto básico de una calculadora de escritorio desarrollada con Java 21, IntelliJ IDEA, Java Swing, MySQL 8 y JDBC .
 Es una aplicación sencilla y apropiada para practicar programación orientada a objetos, interfaces gráficas y conexión de Java con MySQL.
